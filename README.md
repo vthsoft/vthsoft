@@ -44,7 +44,7 @@ Antes de escribir una sola línea de código, ayudamos a **validar qué vale la 
 
 ## 🛠️ Tech stack
 
-- **Backend:** Node.js · TypeScript · GraphQL · REST  
+- **Backend:** Node.js · TypeScript · Python · Go · Java · GraphQL · REST  
 - **Frontend:** React · Astro  
 - **Data:** PostgreSQL · MongoDB · Redis · Cassandra  
 - **Cloud:** AWS (Fargate, Lambda, S3, RDS, Cognito, CloudWatch)  
